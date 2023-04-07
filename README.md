@@ -1,11 +1,11 @@
 # BikeSeller_Database
-Database to manage the stocks, sales and purchases of a company selling bicycle accessories.
+Database management project to manage the stocks, sales and purchases of a company selling bicycle accessories.
 This project uses the interoperability between C# and MySQL libraries.
 
 VéloMax is a company that sells bicycles and spare parts for bicycles.
 This project is a new database to better manage sales and customers.
 
-The database must allow different management functionalities (creation, deletion, update):
+The database manager allows different management functionalities (creation, deletion, update):
 * Spare parts management and bicycle management.
 * Management of private customers and corporate customers
 * Management of the Fidelio program for individuals, and a discount rate for companies
@@ -13,7 +13,7 @@ The database must allow different management functionalities (creation, deletion
 * Management of orders
 * Stock management, knowledge at any time of the stock of parts and bikes
 
-The database also offers other features:
+The database manager also offers other features:
 * For each order, check that the stock allows a delivery in time or make an estimate of the delivery according to the constraints of all spare parts
 * Overview of stocks by part, by supplier, by bike, by bike category, brand...
 Make sure to be as exhaustive as possible
