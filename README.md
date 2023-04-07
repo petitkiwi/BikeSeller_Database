@@ -1,5 +1,6 @@
 # BikeSeller_Database
 Database to manage the stocks, sales and purchases of a company selling bicycle accessories.
+This project uses the interoperability between C# and MySQL libraries.
 
 VéloMax is a company that sells bicycles and spare parts for bicycles.
 This project is a new database to better manage sales and customers.
